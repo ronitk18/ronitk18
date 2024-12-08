@@ -47,9 +47,8 @@ I'm Ronit Khandelwal, a Computer Science freshman at BITS Pilani and a passionat
 
 ## 🌟 Let's Connect!
 
-- LinkedIn: 
-- Portfolio:  
-- Email: 
+- LinkedIn: https://www.linkedin.com/in/ronit-khandelwal-78244131b
+- Email: ronitkhandelwal9@gmail.com
 
 Let's build something amazing together! 🚀
 
